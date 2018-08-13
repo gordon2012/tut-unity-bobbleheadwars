@@ -4,8 +4,7 @@
 
 ### Part 1: Getting Started - https://www.raywenderlich.com/5589-unity-tutorial-part-1-getting-started
 - [X] Installing and Running Unity
-- [ ] Learning the Interface
-- [ ] Organizing your Assets
+- [X] Organizing your Assets
 - [ ] Importing Assets
 - [ ] Installing Blender
 - [ ] Importing Packages
