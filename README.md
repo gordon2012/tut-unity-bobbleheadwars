@@ -11,7 +11,7 @@
 - [X] Adding the Hero
 
 ### Part 2: GameObjects - https://www.raywenderlich.com/5632-unity-tutorial-part-2-gameobjects
-- [ ] Introducing GameObjects
+- [X] Introducing GameObjects
 - [ ] Creating a Prefab
 - [ ] Fixing the Models
 - [ ] Adding Obstacles
