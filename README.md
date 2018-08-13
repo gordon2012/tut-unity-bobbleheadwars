@@ -6,8 +6,7 @@
 - [X] Installing and Running Unity
 - [X] Organizing your Assets
 - [X] Importing Assets
-- [ ] Installing Blender
-- [ ] Importing Packages
+- [X] Importing Packages
 - [ ] Adding Models to the Scene View
 - [ ] Adding the Hero
 
