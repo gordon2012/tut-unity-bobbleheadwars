@@ -13,7 +13,7 @@
 ### Part 2: GameObjects - https://www.raywenderlich.com/5632-unity-tutorial-part-2-gameobjects
 - [X] Introducing GameObjects
 - [X] Creating a Prefab
-- [ ] Fixing the Models
+- [X] Fixing the Models
 - [ ] Adding Obstacles
 - [ ] Creating Spawn Points
 
