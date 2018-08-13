@@ -7,7 +7,7 @@
 - [X] Organizing your Assets
 - [X] Importing Assets
 - [X] Importing Packages
-- [ ] Adding Models to the Scene View
+- [X] Adding Models to the Scene View
 - [ ] Adding the Hero
 
 ### Part 2: GameObjects - https://www.raywenderlich.com/5632-unity-tutorial-part-2-gameobjects
