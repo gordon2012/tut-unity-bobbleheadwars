@@ -14,7 +14,7 @@
 - [X] Introducing GameObjects
 - [X] Creating a Prefab
 - [X] Fixing the Models
-- [ ] Adding Obstacles
+- [X] Adding Obstacles
 - [ ] Creating Spawn Points
 
 ### Part 3: Components - https://www.raywenderlich.com/5648-unity-tutorial-part-3-components
