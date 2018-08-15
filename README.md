@@ -18,7 +18,7 @@
 - [X] Creating Spawn Points
 
 ### Part 3: Components - https://www.raywenderlich.com/5648-unity-tutorial-part-3-components
-- [ ] Adding the Rigidbody Component
+- [X] Adding the Rigidbody Component
 - [ ] Creating Your First Script
 - [ ] Accessing Input From Code
 - [ ] Camera Movement
