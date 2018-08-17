@@ -19,7 +19,6 @@
 
 ### Part 3: Components - https://www.raywenderlich.com/5648-unity-tutorial-part-3-components
 - [X] Adding the Rigidbody Component
-- [ ] Creating Your First Script
-- [ ] Accessing Input From Code
+- [X] Creating Your First Script
 - [ ] Camera Movement
 - [ ] Adding Gunplay
