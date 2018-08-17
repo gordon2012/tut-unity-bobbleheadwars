@@ -21,4 +21,4 @@
 - [X] Adding the Rigidbody Component
 - [X] Creating Your First Script
 - [X] Camera Movement
-- [ ] Adding Gunplay
+- [X] Adding Gunplay
